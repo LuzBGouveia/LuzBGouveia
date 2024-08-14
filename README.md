@@ -1,4 +1,4 @@
-### Hi there, I'm LulzUser 👋
+### Hi there, I'm Luz 👋
 
 - 🔭 I’m currently working to improve myself as a programmer.
 - 🌱 I’m currently learning information technology and the languages: HTML, CSS, JS and C#.
