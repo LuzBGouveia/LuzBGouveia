@@ -5,4 +5,3 @@
 - 👯 I’m looking to collaborate on GitHub, Teams, Discord and different projects.
 - 🤔 I’m looking for help with my programming skills and computer science.
 - 📫 How to reach me: lu.barros.gouveia2@gmail.com
-- My ETEC gmail: lucas.gouveia2@etec.sp.gov.br
